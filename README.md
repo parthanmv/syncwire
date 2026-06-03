@@ -458,5 +458,5 @@ This project is released under the [ISC License](https://opensource.org/licenses
 ---
 
 <p align="center">
-  Built with ⚡ by <a href="https://github.com/akhileswarr10">@akhileswarr10</a>
+  Built with ⚡ by <a href="https://github.com/akhileswarr10">@parthanmv</a>
 </p>
